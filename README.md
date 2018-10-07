@@ -1,8 +1,6 @@
 # QAtask
 
-Prerequirements:
-Go to www.humanity.com and create new business owner account (your own test account
-that you’ll use for test).
+
 
 Assignment - You should:
 ● Login as a manager;
